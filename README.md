@@ -3,7 +3,7 @@
 The company was struggeling in making accurate data-driven decisions. It was lacking the data transperancy due to its relience on Excel for performing all data analytical operations even after expanding its operations in multiple countries.
 
 ## Objective 
-Create comprehensive [dashboards](https://app.powerbi.com/groups/me/reports/9e0555bf-c609-4575-a2e2-b33926e0a956/19ecc12eb7464a006010?experience=power-bi) for all business departments including Finance, Sales, Supply Chain Management, Marketing and Executive. These dashboards enanble business in detailed performance tracking across all devisions over specific time-period and supports in quick identification and resolutions of any issue in a particular region, country or product.  
+Create comprehensive [dashboards](https://app.powerbi.com/groups/me/reports/9e0555bf-c609-4575-a2e2-b33926e0a956/19ecc12eb7464a006010?experience=power-bi) for all business departments including Finance, Sales, Supply Chain Management, Marketing and Executive. These dashboards enanble business in detailed performance tracking across all devisions over specific time-period and supports in quick identification and resolutions of any issue in a particular region, country or product. This proactive approach supports data-driven decision-making and ensures that any operational challenges are recognized and resolved, helping the organization maintain alignment with its strategic goals. 
 
 1. **Finance Dashboard**: Displays all key metrics including with the comaparison with previous year and targets set by company, Profit & Loss Statements, Monthly trend for each metrics, Metrics by Region and Segments.
 
@@ -15,14 +15,19 @@ Create comprehensive [dashboards](https://app.powerbi.com/groups/me/reports/9e05
 
 5. **Executive Dashboard**: Shows key metrics of all departments by region, Company's Market Share Trend over years comparing with competitors, key metrics yearly trend, Top 5 Customers and Products by revenue.
 
-## Technical Skills Required:
-- Snowflake Schema
-- ETL in Power Query
-- Data Analysis Expressions (DAX)
-- Domain Knowledge of Fast Moving Consumer Goods
-- Building Visualizations
 
-## Soft Skills Required:
-- Communication
-- Problem-solving
-- Attention to Detail
+## Technical Skills
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Data Modeling
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Data Analysis Expressions (DAX) for creating calculated columns and measures.
+- [x] Ability to select the appropriate visualization.
+- [x] Ability to create dynamic title.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales, Finance, Supply Chain Management, and Marketing
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.

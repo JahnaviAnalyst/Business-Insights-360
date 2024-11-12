@@ -5,15 +5,15 @@ The company was struggeling in making accurate data-driven decisions. It was lac
 ## Objective 
 Create comprehensive [dashboards](https://app.powerbi.com/groups/me/reports/9e0555bf-c609-4575-a2e2-b33926e0a956/19ecc12eb7464a006010?experience=power-bi) for all business departments including Finance, Sales, Supply Chain Management, Marketing and Executive. These dashboards enanble business in detailed performance tracking across all devisions over specific time-period and supports in quick identification and resolutions of any issue in a particular region, country or product. This proactive approach supports data-driven decision-making and ensures that any operational challenges are recognized and resolved, helping the organization maintain alignment with its strategic goals. 
 
-1. **Finance Dashboard**: Displays all key metrics including with the comaparison with previous year and targets set by company, Profit & Loss Statements, Monthly trend for each metrics, Metrics by Region and Segments.
+1. **[Finance](https://github.com/JahnaviAnalyst/Business-Insights-360/blob/main/Finance%20View.png) Dashboard**: Displays all key metrics including with the comaparison with previous year and targets set by company, Profit & Loss Statements, Monthly trend for each metrics, Metrics by Region and Segments.
 
-2. **Sales dashboard**: Shows customer and product performance through all key metrics. Comapares Gross marhin % and Net Profit % against Net Sales using Toggle button. It also compares net sales with total discounts(pre-deduction, post- deduction) offered to customers, as well as total COGS against Gross Margin.
+2. **[Sales](https://github.com/JahnaviAnalyst/Business-Insights-360/blob/main/Sales%20View.png) Dashboard**: Shows customer and product performance through all key metrics. Comapares Gross marhin % and Net Profit % against Net Sales using Toggle button. It also compares net sales with total discounts(pre-deduction, post- deduction) offered to customers, as well as total COGS against Gross Margin.
 
-3. **Supply Chain Management Dashboard**: Displays all key metrics for supply chain such as Net Error, ABS Error and Forcast Accuracy. Shows monthly trens for each and customer performance through all metrics.
+3. **[Supply Chain Management](https://github.com/JahnaviAnalyst/Business-Insights-360/blob/main/Supply%20Chain%20View.png) Dashboard**: Displays all key metrics for supply chain such as Net Error, ABS Error and Forcast Accuracy. Shows monthly trens for each and customer performance through all metrics.
 
-4. **Marketing Dashboard**: Shows Product, region, market and customer performance thriugh key metrics. Compares Gross Margin, Operational Expenses, and Net Profit.
+4. **[Marketing](https://github.com/JahnaviAnalyst/Business-Insights-360/blob/main/Marketing%20View.png) Dashboard**: Shows Product, region, market and customer performance thriugh key metrics. Compares Gross Margin, Operational Expenses, and Net Profit.
 
-5. **Executive Dashboard**: Shows key metrics of all departments by region, Company's Market Share Trend over years comparing with competitors, key metrics yearly trend, Top 5 Customers and Products by revenue.
+5. **[Executive](https://github.com/JahnaviAnalyst/Business-Insights-360/blob/main/Executive%20View.png) Dashboard**: Shows key metrics of all departments by region, Company's Market Share Trend over years comparing with competitors, key metrics yearly trend, Top 5 Customers and Products by revenue.
 
 
 ## Technical Skills

@@ -1,9 +1,9 @@
 # Power BI - Business Insights 360
 ## Problem Statement 
-The company was struggeling in making accurate data-driven decisions. It was lacking the data transperancy due to its relience on Excel for performing all data analytical performance even after expamding its operations in multiple countries.
+The company was struggeling in making accurate data-driven decisions. It was lacking the data transperancy due to its relience on Excel for performing all data analytical operations even after expanding its operations in multiple countries.
 
 ## Objective 
-I created comprehensive [dashboards](https://app.powerbi.com/groups/me/reports/9e0555bf-c609-4575-a2e2-b33926e0a956/19ecc12eb7464a006010?experience=power-bi) for all business departments including Finance, Sales, Supply Chain Management, Marketing and Executive. These dashboards enanble business in detailed performance tracking across all devisions over specific time-period and supports in quick identification and resolutions of any issue in a particular region, country or product.  
+Create comprehensive [dashboards](https://app.powerbi.com/groups/me/reports/9e0555bf-c609-4575-a2e2-b33926e0a956/19ecc12eb7464a006010?experience=power-bi) for all business departments including Finance, Sales, Supply Chain Management, Marketing and Executive. These dashboards enanble business in detailed performance tracking across all devisions over specific time-period and supports in quick identification and resolutions of any issue in a particular region, country or product.  
 
 1. **Finance Dashboard**: Displays all key metrics including with the comaparison with previous year and targets set by company, Profit & Loss Statements, Monthly trend for each metrics, Metrics by Region and Segments.
 
@@ -13,4 +13,16 @@ I created comprehensive [dashboards](https://app.powerbi.com/groups/me/reports/9
 
 4. **Marketing Dashboard**: Shows Product, region, market and customer performance thriugh key metrics. Compares Gross Margin, Operational Expenses, and Net Profit.
 
-5. **Executive Dashboard**: Shows key metrics of all departments by region, Company's Market Share Trend over years comparing with competitors, key metrics yearly trend, Top 5 Customers and Products by revenue. 
+5. **Executive Dashboard**: Shows key metrics of all departments by region, Company's Market Share Trend over years comparing with competitors, key metrics yearly trend, Top 5 Customers and Products by revenue.
+
+## Technical Skills Required:
+- Snowflake Schema
+- ETL in Power Query
+- Data Analysis Expressions (DAX)
+- Domain Knowledge of Fast Moving Consumer Goods
+- Building Visualizations
+
+## Soft Skills Required:
+- Communication
+- Problem-solving
+- Attention to Detail
